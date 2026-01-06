@@ -1,4 +1,6 @@
 # Simple Python program
+import multicloud
+import time
 
 def greet(name):
     return f"Hello, {name}! Welcome to Python 🐍"
